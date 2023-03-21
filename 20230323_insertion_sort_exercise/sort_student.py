@@ -21,5 +21,5 @@ print(' '.join([str(height) for height in sort_list]))
 
 path = 'answer/ans_9.txt'
 f = open(path, 'w')
-print(' '.join([str(height) for height in height_list]), file=f)
+print(' '.join([str(height) for height in sort_list]), file=f)
 f.close()
