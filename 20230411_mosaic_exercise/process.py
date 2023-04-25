@@ -3,8 +3,8 @@ def count_avg(matrix):
   height = len(matrix)
   sum = 0
   pixel_count = width*height
-  for i in range(height):
-    for j in range(width):
+  for j in range(height):
+    for i in range(width):
       sum += matrix[j][i]
   avg = sum//pixel_count
   return avg

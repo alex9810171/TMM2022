@@ -9,7 +9,7 @@ def main():
     image_filename = 'input2.jpg'
     save_path = '20230411_mosaic_exercise/test'
     test_name = str(input('test name: '))
-    is_random = False
+    is_random = True
     
     if is_random:
         size_x, size_y = map(int, input('image size x y: ').split())
