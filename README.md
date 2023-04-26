@@ -22,3 +22,12 @@
 161 40 27 235 127 158
 ```
 3. 20230422_bucket_problem
+4. 20230426_nonogram
+```
+python3 main.py -m 1 < stage_3_in/00.in > stage_3_out/00.out
+python3 main.py -m 2 -i test/06_b.png -t 15 -s stage_1_ans/06.png
+```
+5. 20230426_histogram
+```
+python3 main.py -m 1 -s stage_3_out/hist_00.png < stage_3_in/00.in > stage_3_out/00.out
+```
