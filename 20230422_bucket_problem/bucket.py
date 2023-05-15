@@ -10,9 +10,9 @@ import time
 
 start = time.time()
 
-one = 15
-five = 15
-ten = 100
+one = 10
+five = 10
+ten = 10
 
 def put(money):
     table = []

@@ -14,3 +14,9 @@ void qq_function(){
 		printf("QQ\n");
 	}
 }
+
+int main(){
+	int count;
+	scanf("%d", &count);
+	printf("%d", count);
+}
