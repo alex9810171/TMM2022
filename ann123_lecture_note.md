@@ -68,7 +68,7 @@ GitHub: [Ann123 GitHub](https://github.com/annn123?tab=repositories)
 - QA Time:
     - Q1: 那之後更新還要再add origin "your url"嗎?
     - A1: 不用，因為你已經把你的本地端git資料夾連結到github上面了，他會記錄在.git資料夾裡面的config檔案裡面
-    - 
+    
 ### (2) .gitignore 教學
 - 我們在前面不是有提到"GitHub 限制單一檔案 100 MB"，那如果我的資料夾底下有大於100MB的檔案不想上傳怎麼辦？
 - 這個時候就要用.gitignore的檔案來把指定的檔案忽略不要上傳
