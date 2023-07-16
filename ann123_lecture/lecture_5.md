@@ -3,7 +3,7 @@
     - Try to initial 1D array with student score:
         ```cpp
         int a[10] = [90, 95, 91, 98, 60,
-                     71, 91, 31, 80, 85];
+                    71, 91, 31, 80, 85];
         ```
     - Try to sort above scores from large to small:
         ```cpp
@@ -22,3 +22,35 @@
             2 5 6 8
             3 4 2 1
             ```
+            ```cpp
+            int a[3][4];
+            ```
+        - 因為實際上2維陣列是由多個一維陣列所組成
+            ```
+            [3] -> 一維陣列數量
+            [4] -> 一維陣列
+            ```
+    - 有了基本的概念之後我們來講讀入跟輸出
+        - 讀取
+            ```cpp
+            int a[3][4];
+            for(int i=0; i< 3; i++){
+                for(int j = 0; j < 4; j++){
+                    // scanf("%d", &a[i][j]);
+                    cin >> a[i][j];
+                }
+            }
+            ```
+        - 輸出
+            ```cpp
+            for(int i=0; i< 3; i++){
+                for(int j = 0; j < 4; j++){
+                    // printf("%d", a[i][j]);
+                    cout << a[i][j] << " ";
+                }
+                // printf("\n");
+                cout << "\n";
+            }
+            ```
+    - 練習題講解：
+        https://jmj.cmgsh.tp.edu.tw/ShowProblem?problemid=a236
