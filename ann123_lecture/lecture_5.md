@@ -54,3 +54,5 @@
             ```
     - 練習題講解：
         https://jmj.cmgsh.tp.edu.tw/ShowProblem?problemid=a236
+    - HW1講解投影片：
+        https://docs.google.com/presentation/d/1ji7-HFEu3OM4QD76qtaJScF9Bmq-lGHJ8j3VkqV4Rss/edit?usp=sharing
