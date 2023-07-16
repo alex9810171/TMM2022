@@ -56,3 +56,4 @@
         https://jmj.cmgsh.tp.edu.tw/ShowProblem?problemid=a236
     - HW1講解投影片：
         https://docs.google.com/presentation/d/1ji7-HFEu3OM4QD76qtaJScF9Bmq-lGHJ8j3VkqV4Rss/edit?usp=sharing
+- 二維陣列其實沒有什麼特別需要講解的東西，而是需要從題目中學習一些細節，例如超出邊界的處理等
