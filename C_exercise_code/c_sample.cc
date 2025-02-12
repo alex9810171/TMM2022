@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <string>
+using namespace std;
 
 void for_function(){
 	int x = 0;
